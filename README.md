@@ -1,7 +1,7 @@
 # Dynamical-systems-in-maxima
 Exploration in nonlinear dynamics with a computational algebra system (Maxima)
 
-For now, to know what I have done with maxima, you can read through the texts and figures ignoring the scripts at your will. You can play around with the accompanying [wxmaxima](http://wxmaxima-developers.github.io/wxmaxima/) (GUI frontend - Mathematica and Jupyter like notebook for maxima) notebook. You need a working installation of [Maxima](http://maxima.sourceforge.net/) and wxmaxima for that. As I am planning to explore further the terrains of Maxima, I will upload more explorations. In a while, I will add the comments to the scripts.
+For now, to know what I have done with maxima, you can read through the texts and figures ignoring the scripts at your will. You can play around with the accompanying [wxmaxima](http://wxmaxima-developers.github.io/wxmaxima/) (GUI frontend - Mathematica and Jupyter like notebook for maxima) notebook. You need a working installation of [Maxima](http://maxima.sourceforge.net/) and wxmaxima for that. As I am planning to explore further the terrains of Maxima, I will upload more nuggets of information I come across. In a while, I will add the comments to the scripts as well.
 
 Below I have listed some great references for getting started with maxima and nonlinear dynamics:
 
@@ -18,3 +18,5 @@ Below I have listed some great references for getting started with maxima and no
 
 ## Dynamical system and maxima
 [*Perturbation Methods, Bifurcation Theory and Computational Algebra*](https://www.springer.com/gp/book/9780387965895)
+
+## May the force of Maxima be with you !! 
