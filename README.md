@@ -13,8 +13,8 @@ Below I have listed some great references for getting started with maxima and no
 ## Maxima
 1. [*Maxima by example*](http://web.csulb.edu/~woollett/)
 2. [*The Computer Algebra Program Maxima - a Tutorial*](http://maxima.sourceforge.net/docs/tutorial/en/gaertner-tutorial-revision/Contents.htm)
-3. [list of documentations and tutorials from maxima website](http://maxima.sourceforge.net/documentation.html)
-[themaximalist.org](https://themaximalist.org/)
+3. [List of documentations and tutorials from maxima website](http://maxima.sourceforge.net/documentation.html)
+4. [themaximalist.org](https://themaximalist.org/)
 
 ## Dynamical system and maxima
 [*Perturbation Methods, Bifurcation Theory and Computational Algebra*](https://www.springer.com/gp/book/9780387965895)
