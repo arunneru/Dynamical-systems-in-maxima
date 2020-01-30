@@ -19,4 +19,4 @@ Below I have listed some great references for getting started with maxima and no
 ## Dynamical system and maxima
 [*Perturbation Methods, Bifurcation Theory and Computational Algebra*](https://www.springer.com/gp/book/9780387965895)
 
-## May the force of Maxima be with you !! 
+
